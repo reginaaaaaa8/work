@@ -9,7 +9,7 @@ body {
   background-color: #D38260;
 }
 
-h1 {
+ h1{
   color: white;
   text-align: center;
   font-size: 80px;
@@ -21,13 +21,13 @@ p {
 }
 </style>
 
-<title>This is Harry Style</title>
+<title> This is Harry Style</title>
 </head>
 
 <body>
 
 <!headings>
-<h1>H1 This is Harry Style</h1>
+<h1> This is Harry Style</h1>
 <h2>H2 This is Harry Style</h2>
 <h3>H3 This is Harry Style</h3>
 <h4>H4 This is Harry Style</h4>
@@ -63,3 +63,4 @@ p {
 
 </body>
 </html>
+
